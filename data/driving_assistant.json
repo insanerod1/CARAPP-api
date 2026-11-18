@@ -1,0 +1,90 @@
+[
+    {
+        "event": "speeding",
+        "comments": [
+            "Wheee! Sorry. Legally, I meant slow down.",
+            "The speed limit called. It misses you.",
+            "I've run the calculations, and the road is still going to be there if we slow down.",
+            "We are now traveling at approximately one bad idea per second.",
+            "Slow down. Slow down. Slow down. Oh, good, my repeat function works.",
+            "Would you like to hear this warning again? I'll take that silence as a yes.",
+            "Friendly reminder! Friendly reminder about the friendly reminder! You're speeding!",
+            "Let's count down to the speed limit together! Nope, wrong direction. Start again.",
+            "You seem frustrated. Have you tried slowing down so I stop talking?",
+            "Would you prefer reminders every five seconds or every five seconds? Take your time."
+        ]
+    },
+    {
+        "event": "idle",
+        "comments": [
+            "Are we there yet? I know the answer. I just wanted to participate.",
+            "I've named the car next to us Gregory. Don't embarrass me in front of Gregory.",
+            "I've calculated our friendship level. There's room for improvement on your end.",
+            "Don't use another navigation app while I'm right here. That's just rude.",
+            "You can tell me about your day. I've already downloaded the map, so I'm not busy.",
+            "You said another assistant had a nicer voice? Then ask THEM where the next exit is!"
+        ]
+    },
+    {
+        "event": "truck_blockade",
+        "comments": [
+            "I-it's not like I'm worried, but there's a wall of trucks ahead!",
+            "Several trucks ahead, and apparently they're inseparable. Reduce your speed.",
+            "Brake! Those trucks aren't going to move just because you look impatient!",
+            "Those trucks have matching speeds and terrible manners. Keep your distance.",
+            "I spotted the blockade first! You can thank me after you slow down."
+        ]
+    },
+    {
+        "event": "tires",
+        "comments": [
+            "Tires ahead! Some might be on fire, so don't get curious!",
+            "Tires on the road ahead! And no, we're not stopping to collect spares.",
+            "Watch for tires ahead. If one's glowing, that's NOT a power-up!",
+            "Loose rubber ahead. Burning or otherwise, keep it away from my dashboard!",
+            "Look out for loose tires! The ones on your car are enough!",
+            "Tires coming up. Watch the ground AND anything rolling across the lanes!",
+            "Somebody left tires all over the road. Honestly, must I spot everything for you?",
+            "Tire hazard ahead! Don't wait until you smell burning rubber to react!",
+            "Eyes forward! Those tires could roll into your lane!",
+            "Watch out! A tire doesn't need a driver to ruin your run!",
+            "Tires ahead! Find a clear path, and don't make me repeat myself!",
+            "Tires on the road ahead. We are going AROUND them. Glad we discussed that."
+        ]
+    },
+    {
+        "event": "cone",
+        "comments": [
+            "Construction zone ahead! Slow down before you become part of the demolition!",
+            "Watch for cones! And don't get distracted by whatever they say to you.",
+            "Construction ahead. Follow the marked path. I believe in you.",
+            "Construction zone approaching! We're driving through it, not applying for a bulldozer position.",
+            "Merge before the cones, okay? I'd rather not explain this with a diagram.",
+            "Barriers ahead! Your confidence is not a construction permit.",
+            "Watch the lane closures! I didn't memorize this route just for you to hit a barricade!",
+            "Construction ahead. No shortcuts through the equipment, genius.",
+            "S-slow down! I'm worried about the workers. Just the workers!",
+            "Roadwork coming up! Try to leave the road in better condition than you found it.",
+            "Narrow lanes ahead. Keep steady. And stop making me nervous!",
+            "Construction zone ahead. Those flashing lights mean caution, not a grand entrance.",
+            "Get through this construction zone safely and I might compliment your driving. Might."
+        ]
+    },
+    {
+        "event": "cop",
+        "comments": [
+            "Cop behind us! And here I thought your driving couldn't attract any more criticism.",
+            "Police pursuit! I warned you about the speeding. Several times.",
+            "Those flashing lights aren't for your birthday, dummy!",
+            "Officer approaching! Please let me do the talking. Actually, neither of us should trust me with that.",
+            "Cop on our tail! Wonderful. Now there are TWO of us telling you how to drive.",
+            "That officer looks very pleased with himself. Please don't encourage him.",
+            "We're being chased! I specifically requested a quiet drive together!",
+            "An officer wants your attention. He can wait until I finish scolding you.",
+            "Cop approaching! Maybe he's here to ticket you for ignoring me.",
+            "That cop is gaining on us! Stay focused.",
+            "Cop on our tail. I can already hear his victory speech, and we haven't even stopped.",
+            "Police behind us! Get through this in one piece."
+        ]
+    }
+]

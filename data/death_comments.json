@@ -1,0 +1,112 @@
+[
+    {
+        "obstacle": "car",
+        "comments": [
+            "ARE YOU KIDDING ME?! USE YOUR MIRRORS!",
+            "WHO THE HECK GAVE YOU A LICENSE?!",
+            "YOU HAD FIVE LANES AND CHOSE MINE!",
+            "OH, SURE! JUST MERGE DIRECTLY INTO MY CAR!",
+            "Your blind spot is apparently THE ENTIRE ROAD!!",
+            "Congradulations! You found the ONE place I was driving!",
+            "WHY WOULD YOU BRAKE THERE?! THERE'S NOTHING IN FRONT OF YOU!",
+            "Pick a lane and STAY IN IT!",
+            "I had enough room until you started driving SIDEWAYS!"
+        ]
+    },
+    {
+        "obstacle": "truck",
+        "comments": [
+            "ARE YOU KIDDING ME?! YOU THINK I CAN STOP THIS THING ON A DIME?!",
+            "I HAVE EIGHTEEN WHEELS! HOW DID YOU NOT SEE A SINGLE ONE?!",
+            "YOU CUT ME OFF AND THEN HIT THE BRAKES?! WHAT WAS THE PLAN?!",
+            "I CAN'T SEE YOU WHEN YOU'RE GLUED TO MY GODDAMN BUMPER!",
+            "YOU HAD THE WHOLE HIGHWAY AND YOU PICKED MY UNDERCARRIAGE!",
+            "NOW I'VE GOT A WRECK, A LATE DELIVERY, AND SIX HOURS OF PAPERWORK!",
+            "I CHECKED THAT MIRROR THREE TIMES! HOW FAST WERE YOU GOING?!",
+            "STOP TRYING TO PASS ME ON THE SHOULDER! IT'S NOT A SECRET LANE!",
+            "THAT'S IT! I'M SAVING THE DASHCAM FOOTAGE!",
+            "ALL THAT WEAVING JUST TO END UP AGAINST MY FUCKING TRAILER!"
+        ]
+    },
+    {
+        "obstacle": "truck_blockade",
+        "comments": [
+            "THERE'S THREE OF US, DIPSHIT! WHAT WAS YOUR PLAN?!",
+            "YOU SAW A WALL OF TRUCKS AND YOUR ANSWER WAS MORE GAS?!",
+            "WE'RE ALL ON THE RADIO LAUGHING AT YOU!",
+            "YOU FLASHED YOUR LIGHTS LIKE THAT WAS GONNA MAKE MY TRUCK SMALLER!",
+            "HEY, BOYS! FOUND OUT WHAT THAT IDIOT BEHIND US WAS HONKING ABOUT!",
+            "THAT WASN'T A SECRET SHORTCUT! THAT WAS TWO TRAILERS!",
+            "YOU REALLY THOUGHT WE'D ALL SCATTER WHEN YOU SHOWED UP?!",
+            "I WATCHED YOU HIT BOTH OUR TRUCKS! COULDN'T PICK ONE?!",
+            "YOUR HORN WORKS GREAT! TRY THE BRAKES NEXT TIME!",
+            "YOU SPENT FIVE MINUTES RIDING MY ASS JUST TO CLIMB INTO IT!",
+            "HEY, GENIUS! THE SPACE UNDER THE TRAILER ISN'T AN EXTRA LANE!",
+            "DID YOU THINK THAT GAP WOULD GET WIDER IF YOU HIT IT FASTER?!",
+            "YOU WERE IN SUCH A HURRY, AND NOW NOBODY'S GOING ANYWHERE!",
+            "NEXT TIME YOU SEE THREE TRUCKS ACROSS, TRY COUNTING YOUR OPTIONS!"
+        ]
+    },
+    {
+        "obstacle": "tire",
+        "comments": [
+            "I DON'T EVEN HAVE A DRIVER AND I'M STILL BETTER AT THIS THAN YOU!",
+            "YOU HAVE BRAKES, A STEERING WHEEL, AND EYES. I HAVE NONE OF THOSE. EXPLAIN YOURSELF!",
+            "FOUR TIRES ON YOUR CAR AND APPARENTLY NONE OF THEM CAN TURN!",
+            "YOU JUST LOST TO A SPARE!",
+            "YOU HIT THE ONLY TIRE THAT WASN'T ALREADY ATTACHED TO YOUR CAR!",
+            "I'VE BEEN SITTING HERE ALL DAY! YOU'RE MY FIRST CUSTOMER!",
+            "WHAT WERE YOU TRYING TO DO, EQUIP ME AT FULL SPEED?!",
+            "GO AHEAD, BLAME THE RUBBER FOR YOUR DRIVING!"
+        ]
+    },
+    {
+        "obstacle": "flaming_tire",
+        "comments": [
+            "I'M ON FIRE! HOW MUCH MORE VISIBLE DO I NEED TO BE?!",
+            "YOU SAW A BURNING TIRE AND THOUGHT IT WAS A POWER-UP?!",
+            "I'M HAVING THE WORST DAY OF MY LIFE AND YOU STILL MANAGED TO MAKE IT ABOUT YOU!",
+            "DID YOU THINK THOSE FLAMES MEANT FREE TURBO?!",
+            "I'M ROLLING AROUND SCREAMING AND YOU DRIVE STRAIGHT INTO ME!!",
+            "THANKS FOR STOPPING ME!",
+            "I'M LEAVING A TRAIL OF FIRE! YOU COULDN'T FOLLOW THAT CLUE?!",
+            "YOU TRIED TO OUTDRIVE SOMETHING THAT'S LITERALLY BURNING RUBBER!",
+            "CONGRATULATIONS! NOW WE'RE BOTH ON FIRE!"
+        ]
+    },
+    {
+        "obstacle": "cone",
+        "comments": [
+            "It's not like I blocked this lane to keep you safe or anything!",
+            "Watch where you're going, dummy! You knocked me over!",
+            "Don't get the wrong idea! I warn EVERY driver!",
+            "Hmph. The open lane was right there, you know.",
+            "You better not drive like that around the other cones.",
+            "I wasn't waiting for you specifically! This is where they put me!",
+            "Honestly, you're hopeless. Follow the arrows next time, okay?",
+            "You think you can bump into me and just restart like nothing happened?!"
+        ]
+    },
+    {
+        "obstacle": "cop",
+        "comments": [
+            "You were fleeing? Sorry, I thought you were escorting me to my next promotion.",
+            "Go ahead and ask for my badge number. Most fans do.",
+            "You have the right to remain silent while I explain how impressive that was.",
+            "Dispatch, suspect apprehended. Yes, by me again. Try to sound surprised.",
+            "I'd call for backup, but then I'd have to share the credit.",
+            "That chase is going straight into my employee-of-the-month submission.",
+            "Please face the dashcam. This is definitely making the training video.",
+            "I was going to say you gave me a challenge, but this report needs to be accurate.",
+            "Do you know how fast you were going? Because I caught you, so let's start there.",
+            "License, registration, and a moment to appreciate that perfect pursuit.",
+            "You picked the wrong officer to outrun. There are newspaper clippings about me.",
+            "Dispatch, cancel backup. I've already handled the exciting part.",
+            "I barely spilled my coffee. That's the level of professionalism you're dealing with.",
+            "Before you complain, yes, the sunglasses are regulation. On me, anyway.",
+            "You should see the replay from my angle. Actually, everyone should.",
+            "Another successful pursuit. I'm running out of room on my desk for these awards.",
+            "I'll give you a minute to catch your breath. I need to find my good pen for the autograph."
+        ]
+    }
+]
