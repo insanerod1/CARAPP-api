@@ -33,8 +33,7 @@ func NewDeathCommentHandler(comments []models.DeathComments) gin.HandlerFunc {
 				index := rand.IntN(len(options))
 
 				c.JSON(http.StatusOK, gin.H{
-					"obstacle": obstacle,
-					"comment":  options[index],
+					"comment": options[index],
 				})
 				return
 			}
